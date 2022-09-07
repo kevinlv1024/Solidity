@@ -7,6 +7,10 @@
 1. [Solidity中文开发文档](https://solidity-cn.readthedocs.io/zh/develop/index.html)
 2. [以太坊智能合约相关文档](https://ethereum.org/zh/developers/docs/smart-contracts/)
 3. [登链社区-web3.js中文文档](https://learnblockchain.cn/docs/web3.js/index.html)
+4. [Truffle中文文档](https://learnblockchain.cn/docs/truffle/)
+5. [trufflesuite](https://trufflesuite.com/)
+6. [openzeppelin](https://docs.openzeppelin.com/)
+7. ERC20/ERC721/ERC777
 
 
 ### 文章
