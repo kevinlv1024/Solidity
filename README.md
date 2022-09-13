@@ -11,6 +11,7 @@
 5. [trufflesuite](https://trufflesuite.com/)
 6. [openzeppelin](https://docs.openzeppelin.com/)
 7. ERC20/ERC721/ERC777
+8. [Chainlink Blog](https://blog.chain.link/)
 
 
 ### 文章
@@ -19,3 +20,8 @@
 
 ### 视频
 1. [崔棉大师Bilibili-Solidity 8.0全面精通](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410)
+
+
+### 案例
+1. [cryptozombies](https://cryptozombies.io/)
+
